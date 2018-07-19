@@ -19,7 +19,7 @@ public class PerfectNumber {
 			}
 		}
 		System.out.println(0+"="+sum);
-		if(temp==sum)
+		if(temp==sum)   //if statement
 		{
 			return true;
 		}
